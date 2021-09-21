@@ -16,7 +16,6 @@ Lista de tarefas a serem executadas para realização de uma Python Floripa Onli
 ### Criação do evento
 
 - [ ] Criar evento na plataforma [Meetup](https://www.meetup.com/pt-BR/Floripa-Python-Meetup/).
-
 - [ ] Criar evento na plataforma [YouTube](https://www.youtube.com/c/PythonFloripa).
 
 ### Divulgação inicial
@@ -35,12 +34,10 @@ Lista de tarefas a serem executadas para realização de uma Python Floripa Onli
     Este modelo é apenas um lembrete para quais informações devem ser passadas. Libere a imaginação, e coloque uma piada nerd no meio das mensagens! :video_game: :floppy_disk: :game_die:
 </details>
 
-### Buscar palestrantes
+### Palestrantes
 
 - [ ] Palestrante para horário das 14:20 às 15:00 (caso o/a palestrante queira, divulgar aqui seu nome e contanto, juntamente com o título de sua palestra).
-
 - [ ] Palestrante para horário das 15:00 às 15:40 (caso o/a palestrante queira, divulgar aqui seu nome e contanto, juntamente com o título de sua palestra).
-
 - [ ] Palestrante para horário das 16:00 às 16:40 (caso o/a palestrante queira, divulgar aqui seu nome e contanto, juntamente com o título de sua palestra).
 
 ### Divulgação final
@@ -50,7 +47,6 @@ Lista de tarefas a serem executadas para realização de uma Python Floripa Onli
 ### Edição dos slides
 
 - [ ] Editar slides com as informações do evento atual.
-
 - [ ] Editar notícias Python (PyNews).
 
 ### Pós evento
